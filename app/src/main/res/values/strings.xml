@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartFreezer</string>
+    <string name="menu_home">Nevera</string>
+    <string name="menu_lista">Lista</string>
+    <string name="menu_tienda">Tienda</string>
+    <string name="menu_notificacion">Notificaciones</string>
+    <string name="menu_ajustes">Ajustes</string>
+</resources>
